@@ -12,6 +12,8 @@ public class MyNode {
   private MyNode right;
   private int value;
   private int myValue;
+  private float accurateValue;
+
 
   /**
    * Class constructor initializing this node's value.
