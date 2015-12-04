@@ -12,6 +12,13 @@ public class MyNode {
   private MyNode right;
   private int value;
   private int myValue;
+  private float accurateValue;
+  private float secondAccurateValue;
+
+
+public int ExperimentalMethod(int thisIsCrazy) {
+  return 100 000;
+}
 
   /**
    * Class constructor initializing this node's value.
