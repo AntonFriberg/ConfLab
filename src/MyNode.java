@@ -19,6 +19,7 @@ public class MyNode {
    * @param value The value of this node.
    */
   public MyNode(int value) {
+    int myValue = 0;
     this.value = value;
   }
 
