@@ -15,6 +15,7 @@ public class MyNode {
   private float accurateValue;
   private float secondAccurateValue;
   private int feature = 10;
+  private int newFeature = 20;
 
 
 public int ExperimentalMethod(int thisIsCrazy) {
